@@ -10,7 +10,7 @@ const nextConfig = {
   },
   // Allow external image domains
   images: {
-    domains: ["ivory-legal-sheep-782.mypinata.cloud"],
+    domains: ["ivory-legal-sheep-782.mypinata.cloud", "cdn.pixabay.com"],
   },
 };
 
